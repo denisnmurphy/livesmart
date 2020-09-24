@@ -1,0 +1,4 @@
+# Distribution / packaging
+env/
+__pycache__/
+.env
